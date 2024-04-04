@@ -1,1 +1,2 @@
-# python_practice
+# Practice python for AI and visualization
+
